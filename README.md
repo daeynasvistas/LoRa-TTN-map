@@ -43,7 +43,7 @@ Você pode adicionar muitas aplicações desta forma, o que é ótimo para mostr
 
 Para remover uma aplicação novamente, procure em "db.json" e remova a entrada de lá.
 
-## Configuracao
+## Configuração
 
 Para configurar os dados que são mostrados, abra o server.js. Aqui tens o objecto "config". É aqui que especifica quais gráficos precisam ser mostrados e como os dados precisam ser mapeados.
 
