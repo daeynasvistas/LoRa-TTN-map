@@ -9,7 +9,7 @@ Os dados ficam muito mais bonitos quando os pode visualizar. Este projeto torna 
 1. Clonar este repositório:
 
     ``
-      $git clone https://github.com/daeynasvistas/LoRa-TTN-map
+      $ git clone https://github.com/daeynasvistas/LoRa-TTN-map
     ``
 
 1. Instalar as dependências:
