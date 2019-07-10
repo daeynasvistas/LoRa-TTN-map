@@ -33,7 +33,7 @@ Os dados ficam muito mais bonitos quando os pode visualizar. Este projeto torna 
 
 Antes de implantar esta aplicação, vai precisar da sua própria chave API Maps. Ir para [esta página web] (https://developers.google.com/maps/documentation/javascript/get-api-key) e obter um. Então abra o servidor.js e introduza a API no objecto "config".
 
-## Adicionando dados ao mapa
+## Adicionar dados ao mapa
 
 1. Vá à sua consola da rede Things N. e anote o ID de Aplicação.
 1. Na parte inferior dessa página existe uma 'chave de Aplicação'. Anotar também.
