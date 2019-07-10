@@ -54,6 +54,5 @@ Os gráficos podem ser configurados no objeto "config" em "public/maps.js". Ex. 
 https://mcm-ipg-lora.azurewebsites.net/
 
 ## Resultado
-![mcm_ttn](https://user-images.githubusercontent.com/2634610/60971570-62973800-a31c-11e9-9922-92e3c79e96a2.PNG)
-
+![mcm_ttn](https://user-images.githubusercontent.com/2634610/60971681-a2f6b600-a31c-11e9-88dd-834cb9ec184b.PNG)
 
