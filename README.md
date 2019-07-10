@@ -51,9 +51,9 @@ Objetos são colocados automaticamente perto do centro do mapa, e podem ser arra
 Os gráficos podem ser configurados no objeto "config" em "public/maps.js". Ex. para permitir que mais gráficos sejam exibidos, pode desativar as os eixos x e de seguida, baixar a altura da área de desenho. Este projecto utiliza [Chart.js](http://www.chartjs.org/).
 
 ## Online
-
 https://mcm-ipg-lora.azurewebsites.net/
 
 ## Resultado
-![mcm_ttn](https://user-images.githubusercontent.com/2634610/60970403-cec46c80-a319-11e9-9eca-e0ffad3d28e0.PNG)
+![mcm_ttn](https://user-images.githubusercontent.com/2634610/60971494-324f9980-a31c-11e9-9bed-625e81c5db4e.PNG)
+
 
