@@ -1,6 +1,6 @@
-# The Things Network collaborative sensor maps
+<a href="http://mcm.ipg.pt"><img src="http://www.ipg.pt/website/imgs/logotipo_ipg.jpg" title="IPG(MCM)" alt="IPG MCM 2018/19"></a>
 
-![Mapas de sensores TTN] (imagem pública.Forum)
+# The Things Network collaborative sensor maps
 
 Os dados ficam muito mais bonitos quando os pode visualizar. Este projeto torna fácil mostrar dados de sensores de nodes LoRaWAN conectados à rede Things num mapa. Porque todos podem adicionar os seus sensores fornecendo apenas uma chave API, é muito útil para trabalhos ou apresentações do LoRaWAN. Os mapas funcionam em desktop e móvel, e os dados são automaticamente sincronizados entre os clientes.
 
