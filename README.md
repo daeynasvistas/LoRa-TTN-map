@@ -39,9 +39,8 @@ Antes de implantar esta aplicação, vai precisar da sua própria chave API Maps
 1. Quando solicitado, introduza a sua chave da aplicação.
 1. Os dados agora aparecem automaticamente no mapa.
 
-Você pode adicionar muitas aplicações desta forma, o que é ótimo para mostrar multiploas nodes.
-
-Para remover uma aplicação novamente, procure em "db.json" e remova a entrada de lá.
+Pode adicionar muitas aplicações desta forma, o que é ótimo para mostrar multiplos nodes.
+Para remover uma aplicação, procure em "db.json" e remova a entrada de lá.
 
 ## Configuração
 
