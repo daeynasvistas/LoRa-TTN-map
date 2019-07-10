@@ -33,7 +33,7 @@ Antes de implantar esta aplicação, vai precisar da sua própria chave API Maps
 
 ## Adicionando dados ao mapa
 
-1. Vá para a sua aplicação na consola de rede Things e anote o ID de Aplicação.
+1. Vá à sua consola da rede Things N. e anote o ID de Aplicação.
 1. Na parte inferior dessa página existe uma 'chave de Aplicação'. Anotar também.
 1. Volte para a aplicação e indique o seu ID da aplicação no campo de texto do canto superior direito.
 1. Quando solicitado, introduza a sua chave da aplicação.
