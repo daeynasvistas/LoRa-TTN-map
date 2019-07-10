@@ -29,7 +29,7 @@ Os dados ficam muito mais bonitos quando os pode visualizar. Este projeto torna 
 
 ** Google Maps API Key**
 
-Antes de implantar este aplicativo, vai precisar de sua própria chave API Maps. Ir para [esta página web] (https://developers.google.com/maps/documentation/javascript/get-api-key) e obter um. Então abra o servidor.js e introduza a API no objecto "config".
+Antes de implantar esta aplicação, vai precisar da sua própria chave API Maps. Ir para [esta página web] (https://developers.google.com/maps/documentation/javascript/get-api-key) e obter um. Então abra o servidor.js e introduza a API no objecto "config".
 
 ## Adicionando dados ao mapa
 
