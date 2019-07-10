@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/05de2c1f-ca6a-406a-88d6-2682344c91af/resourceGroups/workshop-ipg/providers/Microsoft.Web/sites/mcm-lora-ipg",
+    "appService.deploySubpath": ""
+}
