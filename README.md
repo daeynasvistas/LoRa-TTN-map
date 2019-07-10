@@ -1,5 +1,7 @@
 <a href="http://mcm.ipg.pt"><img src="http://www.ipg.pt/website/imgs/logotipo_ipg.jpg" title="IPG(MCM)" alt="IPG MCM 2018/19"></a>
 
+![ezgif-1-477448af6497](https://user-images.githubusercontent.com/2634610/60972531-61670a80-a31e-11e9-81d3-3562b2e46e6f.gif)
+
 # The Things Network collaborative sensor maps
 
 Os dados ficam muito mais bonitos quando os pode visualizar. Este projeto torna fácil mostrar dados de sensores de nodes LoRaWAN conectados à rede Things num mapa. Porque todos podem adicionar os seus sensores fornecendo apenas uma chave API, é muito útil para trabalhos ou apresentações do LoRaWAN. Os mapas funcionam em desktop e móvel, e os dados são automaticamente sincronizados entre os clientes.
