@@ -8,6 +8,8 @@ Os dados ficam muito mais bonitos quando os pode visualizar. Este projeto torna 
 
 Para enviar os dados para TTN, pode utilizar este repositório: https://github.com/daeynasvistas/LoRa-TTN-Node
 
+![66425186_342349106659933_6656448965128486912_n](https://user-images.githubusercontent.com/2634610/60983592-1a831000-a332-11e9-8a30-94f3efa8b5b1.png)
+
 
 # Como instalar
 
