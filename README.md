@@ -6,6 +6,9 @@
 
 Os dados ficam muito mais bonitos quando os pode visualizar. Este projeto torna fácil mostrar dados de sensores de nodes LoRaWAN conectados à rede Things num mapa. Porque todos podem adicionar os seus sensores fornecendo apenas uma chave API, é muito útil para trabalhos ou apresentações do LoRaWAN. Os mapas funcionam em desktop e móvel, e os dados são automaticamente sincronizados entre os clientes.
 
+Para enviar os dados para TTN, pode utilizar este repositório: https://github.com/daeynasvistas/LoRa-TTN-Node
+
+
 # Como instalar
 
 1. Clonar este repositório:
